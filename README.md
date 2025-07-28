@@ -28,7 +28,7 @@ Welcome to my **SQL internship project portfolio**, completed during my internsh
 - Filtering rows based on salary, department, and date
 - Pattern matching and sorting by multiple fields
 
-📄 **Live Query**: [DB Fiddle Link – Task 1](https://www.db-fiddle.com/f/5Hc94K7r6gUfwcnHRFrMMF/0)
+📄 **Live Query**: [Link for Task 1]([https://www.db-fiddle.com/f/5Hc94K7r6gUfwcnHRFrMMF/0](https://www.db-fiddle.com/f/fAsFnkEgqdkLxCX1F1rmRH/0))
 
 ---
 
@@ -95,27 +95,6 @@ To test the queries yourself:
 3. Modify the queries or run your own against the sample data.
 
 You can also replicate this locally if you have MySQL installed.
-
----
-
-## 📸 Screenshots
-
-<details>
-<summary>Click to Expand</summary>
-
-### Task 1 – Filtered Employee Records  
-![Task 1 Screenshot](screenshots/task1.png)
-
-### Task 2 – Aggregated Department Report  
-![Task 2 Screenshot](screenshots/task2.png)
-
-### Task 3 – Joined Tables with Employee-Manager Data  
-![Task 3 Screenshot](screenshots/task3.png)
-
-### Task 4 – Transaction Rollback Simulation  
-![Task 4 Screenshot](screenshots/task4.png)
-
-</details>
 
 ---
 
