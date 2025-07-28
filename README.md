@@ -9,5 +9,5 @@ This repository contains four structured SQL projects completed during my intern
 - ✅ Task 4: Data Modification & Constraints
 
 ## Tools Used
-- DB Fiddle (https://www.db-fiddle.com/)
+- DB Fiddle
 - MySQL syntax
