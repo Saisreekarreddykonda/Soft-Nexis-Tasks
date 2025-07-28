@@ -14,7 +14,6 @@ Welcome to my **SQL internship project portfolio**, completed during my internsh
 - [Task 4: Data Modification & Integrity](#task-4-data-modification--integrity)
 - [Tech Stack](#tech-stack)
 - [How to Run](#how-to-run)
-- [Screenshots](#screenshots)
 - [Acknowledgments](#acknowledgments)
 
 ---
