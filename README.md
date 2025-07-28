@@ -27,7 +27,7 @@ Welcome to my **SQL internship project portfolio**, completed during my internsh
 - Filtering rows based on salary, department, and date
 - Pattern matching and sorting by multiple fields
 
-📄 **Live Query**: [Link for Task 1]([https://www.db-fiddle.com/f/5Hc94K7r6gUfwcnHRFrMMF/0](https://www.db-fiddle.com/f/fAsFnkEgqdkLxCX1F1rmRH/0))
+📄 **Live Query**: [Link for Task 1]([https://www.db-fiddle.com/f/5Hc94K7r6gUfwcnHRFrMMF/0]
 
 ---
 
